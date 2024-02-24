@@ -5,4 +5,4 @@ In this project I learnt about how to manipulate url using javascript .
 
 🌐 Read the title : https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/
 
-👉 Vist the project from here : 
+👉 Vist the project from here : https://harsh749005.github.io/Google-search/
